@@ -1,0 +1,11 @@
+# Ignore all
+*
+# Except these file types
+!.gitignore
+!*.md
+!*.h
+!*.cpp
+!*.hs
+!*.py
+# And don't ignore subdirectories
+!*/
